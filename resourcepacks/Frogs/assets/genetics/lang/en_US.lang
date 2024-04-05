@@ -1,0 +1,7 @@
+
+genetics.machine.machine.isolator.info=The Isolator takes a random allele from a frog, tree or other individual and copies it into an empty sequence vial. This requires the use of ethanol as a solvent and an enzyme to cut up the DNA. The unsequenced serums can then be amplified in a Polymeriser and sequenced in a Sequencer. This process has a small chance to destroy the individual.
+
+genetics.gui.analyst.info=Add a frog, tree, flower or butterfly to the top left slot. DNA Dye is required if it has not been analysed yet. This dye can also convert vanilla items to breedable individuals.
+
+genetics.gui.analyst.biology.fertility.drones=%d workers per pond
+genetics.gui.analyst.biology.fertility.drone=1 drone per pond

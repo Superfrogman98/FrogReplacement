@@ -1,0 +1,52 @@
+# ==== BLOCKS ====
+
+tile.gendustry.apiary.name=Industrial Lily Farm
+
+
+# ==== GENERAL ITEMS ====
+
+item.gendustry.BeeReceptacle.name=Frog Receptacle
+item.gendustry.HiveSpawnDebugger.name=Pond Spawning Debugger
+
+gendustry.label.sample.rootBees=Taken from a Frog
+
+gendustry.label.template.rootBees=Can be applied to a Frog
+
+
+gendustry.honeycomb.black.name=Black Colored Lily
+gendustry.honeycomb.red.name=Red Colored Lily
+gendustry.honeycomb.green.name=Green Colored Lily
+gendustry.honeycomb.brown.name=Brown Colored Lily
+gendustry.honeycomb.blue.name=Blue Colored Lily
+gendustry.honeycomb.purple.name=Purple Colored Lily
+gendustry.honeycomb.cyan.name=Cyan Colored Lily
+gendustry.honeycomb.silver.name=Light Gray Colored Lily
+gendustry.honeycomb.gray.name=Gray Colored Lily
+gendustry.honeycomb.pink.name=Pink Colored Lily
+gendustry.honeycomb.lime.name=Lime Colored Lily
+gendustry.honeycomb.yellow.name=Yellow Colored Lily
+gendustry.honeycomb.lightblue.name=Light Blue Colored Lily
+gendustry.honeycomb.magenta.name=Magenta Colored Lily
+gendustry.honeycomb.orange.name=Orange Colored Lily
+gendustry.honeycomb.white.name=White Colored Lily
+
+gendustry.honeydrop.black.name=Black Colored Nectar Drop
+gendustry.honeydrop.red.name=Red Colored Nectar Drop
+gendustry.honeydrop.green.name=Green Colored Nectar Drop
+gendustry.honeydrop.brown.name=Brown Colored Nectar Drop
+gendustry.honeydrop.blue.name=Blue Colored Nectar Drop
+gendustry.honeydrop.purple.name=Purple Colored Nectar Drop
+gendustry.honeydrop.cyan.name=Cyan Colored Nectar Drop
+gendustry.honeydrop.silver.name=Light Gray Colored Nectar Drop
+gendustry.honeydrop.gray.name=Gray Colored Nectar Drop
+gendustry.honeydrop.pink.name=Pink Colored Nectar Drop
+gendustry.honeydrop.lime.name=Lime Colored Nectar Drop
+gendustry.honeydrop.yellow.name=Yellow Colored Nectar Drop
+gendustry.honeydrop.lightblue.name=Light Blue Colored Nectar Drop
+gendustry.honeydrop.magenta.name=Magenta Colored Nectar Drop
+gendustry.honeydrop.orange.name=Orange Colored Nectar Drop
+gendustry.honeydrop.white.name=White Colored Nectar Drop
+
+itemGroup.bdew.hives=Custom Frog Ponds
+
+

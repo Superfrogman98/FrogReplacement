@@ -1,0 +1,67 @@
+
+item.CoinBees.name=Coin "The Frogkeeper 1"
+item.CoinBeesI.name=Coin "The Frogkeeper 10"
+item.CoinBeesII.name=Coin "The Frogkeeper 100"
+item.CoinBeesIII.name=Coin "The Frogkeeper 1000"
+item.CoinBeesIV.name=Coin "The Frogkeeper 10K"
+
+
+
+tc.research_name.DRAGONEGG=Dragon Egg
+tc.research_text.DRAGONEGG=[MC] Dragon Egg duplication
+Minecraft.research_page.DRAGONEGG=Dragon Eggs are dropped by Enderdragons when they are killed. When Right Clicked they teleport a short distance. Now you find a magical way to duplicate this Powerful Item using Draconis Frog Products and The Essence of false Life inside the Infusion Table
+
+
+tc.research_name.Mjolnirnew=MjolniR
+tc.research_text.Mjolnirnew=Godly power
+tc.research_page.Mjolnirnew=You have travelled the world, in quest for the mighty Hammer of Throg. One day, you stumbled upon its broken remains, and your heart crumbled with it. After some long and tedious research, you found a way to restore this magnificent tool to its past greatness.<BR><BR>You have an odd feeling, (you seem to have a lot of these), that although this tool is amazingly powerful, you could do more with it.
+tc.research_name.SuperchargedMjolnir=Supercharged Mjolnir
+tc.research_text.SuperchargedMjolnir=Making it yours
+tc.research_page.SuperchargedMjolnir=After some more exploration of the dungeons existing all around the worlds and dimensions, you have managed to find a method that makes you able to overpower Throg's power, making his Hammer yours. Furthermore, you have managed to make your Hammer summon defenders, some strange Snow-Golem like creature that shall protect you. However, the hammer lost its power to summon lightning where you desire it to, and creates a ring of lightning around you.
+
+
+tc.research_name.HEALINGFRAME=Healing Frame
+tc.research_text.HEALINGFRAME=[EB] The Frogs will never die ?
+ExtraBees.research_page.HEALINGFRAME=The Healing Frame is an Item used in a Lily Farm, which increases a Farm Managers lifespan at the cost of a lesser productivity and a decreased mutation rate. It increases a frogs lifespan 50% while reducing its productivity to 75% and the chance of mutation to only 50%. It is constructed using Clay and an Impregnated Frame. In a Lily Plantation structure, the Frame Housing can be added to make use of the Frame.
+tc.research_name.CHOCOLATEFRAME=Chocolate Frame
+tc.research_text.CHOCOLATEFRAME=[EB] Feeding the Frogs
+ExtraBees.research_page.CHOCOLATEFRAME_1=The Chocolate Frame is an item used in a Lily Farm or Lily Plantation Frame Housing , which increases a Farm Managers productivity at the cost of a shorter lifespan. One Chocolate Frame increases the production of the Farm Manager by 50% while reducing her lifespan by 50%. The effects of multiple frames stack multiplicatively, so three Chocolate Frames will make the Lifespan for a Longest life Farm Manager four minutes instead of the usual thirty two. It is constructed using Cocoa Beans and an Impregnated Frame. Chocolate Frames are most often employed to speed up generational turnover, when cloning Farmers for a pure strain or breeding for traits.
+ExtraBees.research_page.CHOCOLATEFRAME_2=For increased production, Forestrys standard Frames are more effective, unless the apiary is set up to automatically replace the workers and princess when the Farm Manager dies; in this case the chocolate frame will speed up production.
+tc.research_name.RESTRAINTFRAME=Restraint Frame
+tc.research_text.RESTRAINTFRAME=[EB] A Frog Cage ?
+ExtraBees.research_page.RESTRAINTFRAME=The Restraint Frame is an Item used in a Lily Farm, which decreases a frogs range at the cost of lesser productivity and a shorter lifespan. The lifespan and production are both reduced to 75%. The frogs territory is decreased to 50%, meaning that special effects such as poison or aggression have a smaller range. The Restraint Frame is only considered useful in special cases, as a frogs damaging effects can also be cancelled out using Herptologists Clothes. In a Lily Plantation structure, the Frame Housing can be added to make use of the Frame.
+tc.research_name.SOULFRAME=Soul Frame
+tc.research_text.SOULFRAME=[EB] Feeding the Frogs
+ExtraBees.research_page.SOULFRAME=The Soul Frame is an Item used in a Lily Farm, which increases the chance of getting a different type of Frog species at the cost of drastically reduced production and a shorter lifespan. It increases the chance of mutation by 50% of the initial mutation chance. The lifespan is reduced to 75% while production is reduced to 25% of its original value. In a Lily Plantation structure, the Frame Housing can be added to make use of the Frame.
+
+tc.research_name.PROVENFRAME=Proven Frame
+tc.research_text.PROVENFRAME=[FR] Better than Impregnated Frames
+Forestry.research_page.PROVENFRAME=The Proven Frame is an item used in a Lily Farm. Each frame doubles the frogs productivity. Out of the three Forestry frames (Untreated, Impregnated and Proven), the Proven Frame has the longest durability.<BR> Proven Frames are normally only obtainable through trading with a Herptologist Villager. The Villager will trade six Proven Frames for one Emerald.<BR> Now you find a magical way put different Frog products and infuse a impregnated Frame to get a Proven Frame. In a Lily Plantation structure, the Frame Housing can be added to make use of the Frame.
+tc.research_name.PROVENGRAFTER=Proven Grafter
+tc.research_text.PROVENGRAFTER=[FR] Better than a Bronze Grafter
+Forestry.research_page.PROVENGRAFTER=The Proven Grafter is significantly stronger than the Bronze Grafter and can be obtained by trading with villagers. Like its counterparts the Bronze Grafter and the Thaumium Grafter it makes it possible for one to achieve a 100% sapling drop rate from trees that have been bred with the Forestry mod.<BR> It does not work on ordinary trees, and when it breaks the last hit does not retrieve a sapling.<BR> Now you find a magical way to infuse a bronze Grafter with saplings and pollen to get a proven one.
+tc.research_name.MAGICAPIARY=Magic Lily Farm
+tc.research_text.MAGICAPIARY=[MB] Magical Lily Farm.
+MagicBees.research_page.MAGICAPIARY=The Magic Lily Farm works similarly to the regular Lily Farm, with 1x base Territory, Mutation, Lifespan, and Flowering modifiers, 0.9x Production modifier, and 0.8 Genetic Decay modifier. When a Lily Farm Booster of any type is placed nearby, the Lily Farm will consume aspects to enable 2x (or 1/2) boosts for, in order from left to right: Mutation, Death Rate, Production. Enabling death rate will halve lifespan. Its useful when all youre interested in is breeding, and dont have access to Oblivion Frames.
+
+tc.research_name.GENTLEFRAME=Gentle Frame
+tc.research_text.GENTLEFRAME=[MB] Magic Living Frame
+MagicBees.research_page.GENTLEFRAME=The Gentle Frame is an Item used in a Lily Farm, which increases a Farm Manager's lifespan and production at the cost of a slightly lower mutation rate. It has a durability of 200, which is slightly shorter than average. The Gentle Frame increases a frog's lifespan by 50% and its productivity by 40%. Its mutation rate is lowered by 30%, leaving it at 70% of its initial mutation rate. With each durability use/frog cycle, the Gentle Frame will deplete the nearby Aura by one point. Additionally, Sano and Victus Flux will be released into the Aura. In a Lily Plantation structure, the Frame Housing can be added to make use of the Frame.
+tc.research_name.RESILIENTFRAME=Resilient Frame
+tc.research_text.RESILIENTFRAME=[MB] Magic Production Frame
+MagicBees.research_page.RESILIENTFRAME=The Resilient Frame is an Item used in a Lily Farm, which doubles the frog's productivity. It has a durability of 840, making it the most durable frame available. The Resilient Frame is the longer-lasting counterpart to the Magic Frame. With each durability use/frog cycle, the Resilient Frame will deplete the nearby Aura by two points. Additionally, Tutamen Flux will be released into the Aura. In a Lily Plantation structure, the Frame Housing can be added to make use of the Frame.
+tc.research_name.NECROTICFRAME=Necrotic Frame
+tc.research_text.NECROTICFRAME=[MB] Magic Killing Frame
+MagicBees.research_page.NECROTICFRAME=The Necrotic Frame is an Item used in a Lily Farm, which drastically decreases a Farm Manager's lifespan and productivity. It has a durability of 270. The Necrotic Frame decreases a frog's lifespan to only 30% and its productivity to 75%. With each durability use/frog cycle, the Necrotic Frame will deplete the nearby Aura by one point. Additionally, a significant amount of Mortuus and Venenum Flux will be released into the aura. In a Lily Plantation structure, the Frame Housing can be added to make use of the Frame.
+tc.research_name.METABOLICFRAME=Metabolic Frame
+tc.research_text.METABOLICFRAME=[MB] Magic Drug Frame
+MagicBees.research_page.METABOLICFRAME=The Metabolic Frame is an Item used in a Lily Farm, which drastically increases a frog's mutation rate as well as a slight increase in it's production. It has a durability of 130. The Metabolic Frame increases the mutation rate by 80% and its production by 20%.
+tc.research_name.TEMPORALFRAME=Temporal Frame
+tc.research_text.TEMPORALFRAME=[MB] Magic Time Frame
+MagicBees.research_page.TEMPORALFRAME=The Temporal Frame is an Item used in a Lily Farm, which drastically increases a Farm Manager's lifespan to 150%. It has a durability of 300. Out of all Frames, the Temporal Frame gives the highest lifespan increase. With each durability use/frog cycle, the Temporal Frame will deplete the nearby Aura by one point. However, a significant amount of Tempus Flux will be released into the aura. In a Lily Plantation structure, the Frame Housing can be added to make use of the Frame.
+tc.research_name.OBLIVIONFRAME=Oblivion Frame
+tc.research_text.OBLIVIONFRAME=[MB] Magic Production Frame
+MagicBees.research_page.OBLIVIONFRAME=The Oblivion Frame is an item added by the Magic Frogs mod. Placed in a Lily Farm or inserted in a Frame Housing within a Lily Plantation, it reduces the lifespan of the residing Farm Manager to a single life cycle (27.5 sec) allowing for very rapid frog breeding. However, an Oblivion Frame draws about 15 Vis per use from the air and releases Tempus aspects into the aura as flux. The Oblivion Frame does not function if used alongside another frame, and that would cause it to take a lot of damage
+
+
+tc.research_text.INFUSEDSEED=[TT] Who said Frogs? No one said Frogs.

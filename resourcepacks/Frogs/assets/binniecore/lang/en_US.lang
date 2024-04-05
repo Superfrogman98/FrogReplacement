@@ -1,0 +1,16 @@
+binniecore.mod.name=Binnie Core
+
+binniecore.rootBees.descriptor=Herpitoligist
+
+binniecore.rootBees.shortName=Frogs
+
+binniecore.rootBees.epitome.0=Frog Swatter
+binniecore.rootBees.epitome.1=Amateur Frogkeeper
+binniecore.rootBees.epitome.2=Herpitoligist-In-Training
+binniecore.rootBees.epitome.3=Professional Frogkeeper
+binniecore.rootBees.epitome.4=Master Herpitoligist
+binniecore.rootBees.epitome.5=God amoungst Herpitoligists
+
+
+binniecore.gui.fieldKit=Field Kit
+binniecore.gui.fieldKit.info=The Field Kit analyses frogs, trees, flowers and butterflies. All that is required is a piece of paper to jot notes
