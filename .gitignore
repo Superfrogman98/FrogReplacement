@@ -1,0 +1,11 @@
+*
+
+!*/
+
+
+!.gitignore
+!/resourcepacks/Frogs/*
+!/config/txloader/forceload/____gtnhoverridenames/lang/en_US.lang
+!/config/GTNewHorizons/CustomToolTips.xml
+
+

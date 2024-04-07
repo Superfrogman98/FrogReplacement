@@ -23,8 +23,8 @@ for.gui.queens=Farm Managers
 
 
 
-for.hints.apiaristsuit.desc=A full Herptologist's suit will protect you from all negative frog effects.
-for.hints.apiaristsuit.tag=Herptologist Suits!
+for.hints.apiaristsuit.desc=A full Herpetologist's suit will protect you from all negative frog effects.
+for.hints.apiaristsuit.tag=Herpetologist Suits!
 for.hints.beebiomes.desc=Frogs only work in biomes that suit their species. Use your frogalyzer and habitat locator to find out in which.
 for.hints.beebreeding.desc=Crossbreeding workers and farmers of different species may net you offspring with a new species.
 for.hints.beebreeding.tag=Breed your frogs!
@@ -96,7 +96,7 @@ item.for.solderingIron.name=Soldering Iron
 
 item.for.waxCapsuleHoney.name=Nectar Capsule
 
-itemGroup.apiculture=Herpiculture
+itemGroup.apiculture=Herpeculture
 
 for.errors.noDrone.desc=No worker
 for.errors.noDrone.help=Mating requires a worker present.
@@ -121,7 +121,7 @@ for.errors.noHoney.help=This gadget requires Nectar or Rich Nectar for operation
 
 
 
-entity.Villager.apiarist=Herptologist
+entity.Villager.apiarist=Herpetologist
 
 death.bee.aggressive.player=%1$s encountered a swarm of frogs. %2$s stole his herptologist's suit.
 death.bee.aggressive=%1$s encountered a swarm of frogs. That had to hurt.
@@ -144,13 +144,16 @@ for.bees.grammar.princess.type=Farmer
 for.bees.grammar.princess=%SPECIES %TYPE
 for.bees.grammar.queen.type=Farm Manager
 for.bees.grammar.queen=%SPECIES %TYPE
+for.bees.grammar.larvae.type=Tadpole
+for.bees.grammar.larvae=%SPECIES %TYPE
+
 
 for.chat.command.forestry.bee.desc=- %s : Frogkeeping Commands
 for.chat.command.forestry.bee.help=Commands relating to frogkeeping.
 for.chat.command.forestry.bee.format=Format: /%s <sub-command>
 
 for.chat.command.forestry.bee.give.desc=- %s : Give Frogss
-for.chat.command.forestry.bee.give.help=Give a player workers, farmer, Farm Managers, or larvae.
+for.chat.command.forestry.bee.give.help=Give a player workers, farmer, Farm Managers, or tadpole.
 for.chat.command.forestry.bee.give.format=Format: /%s <species-name> <frog-type> [<player-name>]
 for.chat.command.forestry.bee.give.available=Available frog types: %s
 for.chat.command.forestry.bee.give.given=%1$s was given a %2$s %3$s.
@@ -191,7 +194,7 @@ for.description.speciesForest=One of the most common pests in forests; Mostly do
 for.description.speciesFrugal=Generations of Frogs baked in the sun to produce this species.|Frogkeeping 101
 for.description.speciesGlacial="Winter is coming!"|E. Stark, Frogkeeper
 for.description.speciesHermitic="My dear colleague! I noticed the Frogs you sent me refuse to wash and are growing full beards. Care to explain?"|Binnie, herptologist
-for.description.speciesHeroic=Elaborate legends have surrounded this species. Will defend its hive to its death against any hostiles.|Herptologist's Grimoire
+for.description.speciesHeroic=Elaborate legends have surrounded this species. Will defend its hive to its death against any hostiles.|Herpetologist's Grimoire
 for.description.speciesIcy=Temperatures inside hives inhabited by this species will drop until ice shards form.|Frogkeeping 101
 for.description.speciesImperial=Highly sought after Frog; Specialises in the production of precious royal jelly.|Frogkeeping 101
 for.description.speciesIndustrious=Highly sought after Frog; Specialises in the production of exquisite pollen.|Frogkeeping 101
@@ -211,12 +214,12 @@ for.description.speciesRural="Rain in May promises much hay."|M. Ages, Rural Fro
 for.description.speciesSecluded="Crossbreeding with the desert kind was a mistake. My Frogs withdrew more and more from the outside world."|Frogkeeping 101
 for.description.speciesSinister=Not many Frog species are able to survive in the nether. And even those are severly affected by their hellish environment.|Frogkeeping 101
 for.description.speciesSpectral="I was unsure whether it was alive as it lay there in the palm of my hand, glimmering and pulsating, oozing a coldness I never felt before. Then I heard the pile of bones behind me rattle..."|Frogkeeping 101
-for.description.speciesSteadfast=Considered extinct until some were found by adventurers in a deep dungeon.|Herptologist's Grimoire
+for.description.speciesSteadfast=Considered extinct until some were found by adventurers in a deep dungeon.|Herpetologist's Grimoire
 for.description.speciesTipsy="Dance my pretties! Dance!"|Tipsy Witch of the East
 for.description.speciesTricky="Trick or Tricky Treat!"|Tricky Frog
 for.description.speciesTropical="My travels along the jungle river allowed me to catch many of these poisonous specimen. Unfortunately I had lost my only austere branch to crocodiles a while back."|Frogkeeping 101
 for.description.speciesUnweary=Unweary. Then they die.|Frogkeeping 101
-for.description.speciesValiant=A rare subspecies rarely seen cohabiting in mundane hives.|Herptologist's Grimoire
+for.description.speciesValiant=A rare subspecies rarely seen cohabiting in mundane hives.|Herpetologist's Grimoire
 for.description.speciesVengeful="Veni, vidi, vici!"|Apinus Julius Caesar
 for.description.speciesVindictive="It ate my face! It ate my face!"|K.M.
 for.description.speciesWintry=Common, but winter-hardened Frog tribe; Cultivation in warmer climates is a challenge.|Frogkeeping 101
@@ -228,7 +231,7 @@ item.for.beeDroneGE.name=Worker
 
 tile.for.alveary.0.name=Lily Plantation
 tile.for.alveary.1.name=Lily Plantation Entrance
-tile.for.alveary.2.name=Swarmer
+tile.for.alveary.2.name=Lily Plantation Hatchery
 tile.for.alveary.3.name=Lily Plantation Fan
 tile.for.alveary.4.name=Lily Plantation Heater
 tile.for.alveary.5.name=Lily Plantation Hygroregulator
@@ -236,7 +239,7 @@ tile.for.alveary.6.name=Lily Plantation Stabiliser
 tile.for.alveary.7.name=Lily Plantation Sieve
 
 tile.for.apiculture.0.name=Lily Farm
-tile.for.apicultureChest.0.name=Herptologist's Chest
+tile.for.apicultureChest.0.name=Herpetologist's Chest
 tile.for.apiculture.2.name=Lily Garden
 
 tile.for.beehives.1.name=Forest Pond
@@ -262,7 +265,7 @@ for.gui.treealyzer.help=Supply sapling and provide Nectar or Rich Nectar as cata
 for.gui.flutterlyzer.help=Supply butterfly and provide Nectar or Rich Nectar as a pacifier.
 
 
-item.PipeItemsPropolis.name=Herptologist's Pipe
+item.PipeItemsPropolis.name=Herpetologist's Pipe
 
 ####################
 # PLUGINS
@@ -274,7 +277,7 @@ for.plugin.apiculture.description=Adds frogs, frogkeeping and frog products. Aff
 for.plugin.buildcraft6.description=Compatibility plugin for BuildCraft 6.
 for.plugin.pipes.description=Adds the herptologist's pipe for frogkeeping if herpiculture is enabled and BuildCraft 6 is present.
 
-for.plugin.ee2.description=Compatibility plugin for Equivalent Exchange 2. Enables the Omega branch of frogss. Requires Herpiculture to be enabled.
+for.plugin.ee2.description=Compatibility plugin for Equivalent Exchange 2. Enables the Omega branch of frogss. Requires Herpeculture to be enabled.
 
 
 ###################################
