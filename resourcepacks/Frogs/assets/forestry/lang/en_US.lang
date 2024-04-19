@@ -152,7 +152,7 @@ for.chat.command.forestry.bee.desc=- %s : Frogkeeping Commands
 for.chat.command.forestry.bee.help=Commands relating to frogkeeping.
 for.chat.command.forestry.bee.format=Format: /%s <sub-command>
 
-for.chat.command.forestry.bee.give.desc=- %s : Give Frogss
+for.chat.command.forestry.bee.give.desc=- %s : Give Frogs
 for.chat.command.forestry.bee.give.help=Give a player workers, farmer, Farm Managers, or tadpole.
 for.chat.command.forestry.bee.give.format=Format: /%s <species-name> <frog-type> [<player-name>]
 for.chat.command.forestry.bee.give.available=Available frog types: %s
@@ -277,7 +277,7 @@ for.plugin.apiculture.description=Adds frogs, frogkeeping and frog products. Aff
 for.plugin.buildcraft6.description=Compatibility plugin for BuildCraft 6.
 for.plugin.pipes.description=Adds the herptologist's pipe for frogkeeping if herpiculture is enabled and BuildCraft 6 is present.
 
-for.plugin.ee2.description=Compatibility plugin for Equivalent Exchange 2. Enables the Omega branch of frogss. Requires Herpeculture to be enabled.
+for.plugin.ee2.description=Compatibility plugin for Equivalent Exchange 2. Enables the Omega branch of frogs. Requires Herpeculture to be enabled.
 
 
 ###################################

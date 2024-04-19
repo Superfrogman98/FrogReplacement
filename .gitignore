@@ -5,6 +5,9 @@
 
 !.gitignore
 !/resourcepacks/Frogs/*
+!/resourcepacks/Frogs/*.png
+
+
 !/config/txloader/forceload/____gtnhoverridenames/lang/en_US.lang
 !/config/GTNewHorizons/CustomToolTips.xml
 
