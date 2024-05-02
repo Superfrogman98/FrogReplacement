@@ -1,0 +1,25 @@
+####################
+# APIARIST'S PIPE
+####################
+
+item.buildcraftPipe.pipeitemspropolis.name=Herpetologist's Pipe
+
+for.gui.pipe.filter.anything=Anything
+for.gui.pipe.filter.bee=Any Frogs
+for.gui.pipe.filter.cave=Cave-Dwellers
+for.gui.pipe.filter.closed=Closed
+for.gui.pipe.filter.drone=Workers
+for.gui.pipe.filter.flyer=Strong Flyers
+for.gui.pipe.filter.item=Items
+for.gui.pipe.filter.natural=Natural Origin
+for.gui.pipe.filter.nocturnal=Nocturnal Frogs
+for.gui.pipe.filter.princess=Farmers
+for.gui.pipe.filter.pure_breed=Pure-Bred Frogs
+for.gui.pipe.filter.pure_cave=Pure Cave-Dwellers
+for.gui.pipe.filter.pure_flyer=Pure Flyers
+for.gui.pipe.filter.pure_nocturnal=Pure Nocturnal Frogs
+for.gui.pipe.filter.queen=Farm Manager
+
+gate.trigger.mfr.backstuffed=Has Drops
+gate.trigger.mfr.conreversed=Conveyor Reversed
+gate.trigger.mfr.conrunning=Conveyor Running

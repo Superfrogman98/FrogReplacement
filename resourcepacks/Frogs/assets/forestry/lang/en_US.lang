@@ -21,6 +21,12 @@ for.gui.pipe.filter.queen=Farm Manager
 
 for.gui.queens=Farm Managers
 
+item.for.apiaristBag.name=Herpetologist's Backpack
+item.for.apiaristBoots.name=Herpetologist's Shoes
+item.for.apiaristChest.name=Herpetologist's Shirt
+item.for.apiaristHelmet.name=Herpetologist's Hat
+item.for.apiaristLegs.name=Herpetologist's Pants
+
 
 
 for.hints.apiaristsuit.desc=A full Herpetologist's suit will protect you from all negative frog effects.

@@ -1,0 +1,9 @@
+# This is the english master file for localizations. It will always be the most
+# up-to-date version, so other localizations should be based on this one.
+# Use [nl] to for a line break.
+
+
+# Items
+
+item.oc.UpgradeBeekeeper.name=Frogkeeper Upgrade
+

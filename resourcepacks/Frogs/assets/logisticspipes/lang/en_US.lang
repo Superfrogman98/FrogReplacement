@@ -1,0 +1,29 @@
+# Master language file
+
+# Insert %c and the name found in logisticspipes.utils.string.ChatColor to add colors
+# Example '%cYELLOW ' (The space behind will be removed)
+
+# Pipes
+
+
+
+item.PipeItemsApiaristAnalyser=Frog Analyzer Logistics Pipe
+item.PipeItemsApiaristAnalyser.tip1=Type: Passive Destination
+item.PipeItemsApiaristAnalyser.tip2= - A passive destination for un-analyzed frogs
+item.PipeItemsApiaristAnalyser.tip3= - Allows for automatic analyzing
+
+item.PipeItemsApiaristSink=FrogSink Logistics Pipe
+item.PipeItemsApiaristSink.tip1=Type: Passive Destination
+item.PipeItemsApiaristSink.tip2= - A passive destination for analyzed frogs
+item.PipeItemsApiaristSink.tip3= - Can filter based on genetic properties and genome.
+
+
+# Modules
+
+#TODO: Add shift tooltip information
+
+item.ModuleApiaristAnalyser=Frog Analyzer module
+item.ModuleApiaristSink=FrogSink module
+item.ModuleApiaristRefiller=Lily Farm Refiller module
+item.ModuleApiaristTerminus=Worker Terminus module
+
