@@ -1712,7 +1712,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyg.desc=Glycerol is a byproduct of maki
 
 # Quest: HCL
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyw.name=§6§lHCL
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyw.desc=More then just a byproduct of your Sodium Persulfate production. HCl becomes important for Epoxid in HV/EV tier. You can also use it to process frog combs.%n%nYou can also make it directly from Hydrogen and Chlorine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyw.desc=More then just a byproduct of your Sodium Persulfate production. HCl becomes important for Epoxid in HV/EV tier. You can also use it to process frog lilies.%n%nYou can also make it directly from Hydrogen and Chlorine.
 
 # Quest: Firestone Ore/Dust
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§6§lFirestone Ore/Dust
@@ -5441,7 +5441,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.desc=This circuit allows you to conf
 
 # Quest: The Centrifuge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD4g.name=The Centrifuge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD4g.desc=The Forestry Centrifuge is able to centrifuge up to 9 items out of frog combs. It uses RF energy.%n%nLatter frog lilies need the GT one though, so keep that in mind.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD4g.desc=The Forestry Centrifuge is able to centrifuge up to 9 items out of frog lilies. It uses RF energy.%n%nLatter frog lilies need the GT one though, so keep that in mind.
 
 # Quest: Clockwork Engine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEvg.name=Clockwork Engine
@@ -9545,7 +9545,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAILQ.name=A Stim a Day Keeps the Doctor A
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAILQ.desc=Supporting circuit boards that can hold 4 electron tubes, the Electrical Stimulator provides a variety of functions. All numbers are in percent:%n%nIron ET - Production: 150 (Max 500)%nDiamantine ET - Production: 250 (Max 1000)%nApatine ET - Pollination: 150 (Max 500)%nObsidian ET - Lifespan: 80 (Min 20)%nLapis ET - Lifespan: 150 (Max 500)%nBlazing ET - Simulates hellish temperature%nGolden ET - Mutation rate: 150 (Max 500)%nTin ET - Territory: 40 (Min 10) Prod: 90 (Min 50)%nBronze ET - Territory: 150 (Max 500)%n%nGenetic Decay is also increased by 50%% for all of them. This affects how long until ignoble frogs die off, so don't worry about it if your frogs are pristine.
 
 # Quest: X-Men, or Should I Say X-Bee?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAILg.name=X-Men, or Should I Say X-Bee?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAILg.name=X-Men, or Should I Say X-Frog?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAILg.desc=The Mutator can vastly accelerate genetic mutations, even allowing those ultra rare frogs to be bred. Items inserted into the Mutator control how much mutation it causes.%n%nSoul Sand - 50 percent increase%nEnder Pearl - 100 percent increase%nEye of Ender - 300 percent increase
 
 # Quest: Genepool
@@ -9656,7 +9656,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Breeding Frogs for Better B
 
 # Quest: Barren
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=Barren
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=The Barren Bee. Not much better.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=The Barren Frog. Not much better.
 
 # Quest: Naquadria
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.name=Naquadria
@@ -9672,7 +9672,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.desc=Lets breed a tungsten frog. It 
 
 # Quest: Iridium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.name=Iridium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.desc=An iridium frog. You can actually get small amounts of pure osmium and iridium from its combs.%n%n%n§3With these lilies and the uranium ones you can now make climate control units for modules in your industrial lily farm!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.desc=An iridium frog. You can actually get small amounts of pure osmium and iridium from its lilies.%n%n%n§3With these lilies and the uranium ones you can now make climate control units for modules in your industrial lily farm!
 
 # Quest: Enderium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.name=Enderium
@@ -9680,7 +9680,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.desc=An enderium frog. In particuarl
 
 # Quest: Neutronium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.name=Neutronium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.desc=You made it all the way to the Neutronium Bee! Wow!%n%nThe Neutronium Lillies can not just lighten the burden on your smelting setup, you can also use them to finally make the Advanced Mutratron.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.desc=You made it all the way to the Neutronium Frog! Wow!%n%nThe Neutronium Lillies can not just lighten the burden on your smelting setup, you can also use them to finally make the Advanced Mutratron.
 
 # Quest: Arid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.name=Arid
@@ -9696,7 +9696,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.desc=A naquadah frog. It doesn't let
 
 # Quest: Decaying
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.name=Decaying
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.desc=The Decaying Frog is not any more useful than the previous three. But now it should be clear, we are on our way to the Lutetium Bee!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.desc=The Decaying Frog is not any more useful than the previous three. But now it should be clear, we are on our way to the Lutetium Frog!
 
 # Quest: Desolate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.name=Desolate
@@ -9768,7 +9768,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJA.desc=Ideal for your Implosion Compre
 
 # Quest: Breed some cultivated frogs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXA.name=Breed some cultivated frogs
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXA.desc=Common Farmer and Foresty Drone can be bred to cultivated frogs. %n%nCultivated frogs have the shorest lifespan - this means they make great farmers to breed with your newly bred workers. The farm manager will die quickly, quickly giving genetic material to work with. Make sure the traits you want are kept!%n%nThey are also a Fast production frog, which means lots of honey lilies for powering your Frogalyzer or Treealyzer. %n%nCultivated Frogs produce Nectar Lillies every 0.9 minutes. Note that production times are an approximation based on the frog's base production speed and the product's rarity. They do not reflect actual production time.%n%nMake sure your cultivated frogs are pure with a Frogalyzer or GT scanner.%n%nThe main frog breeding quests will require pure frogs but you can use Ignoble or Pristine farmers.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXA.desc=Common and Foresty frogs can be bred to cultivated frogs. %n%nCultivated frogs have the shorest lifespan - this means they make great farmers to breed with your newly bred workers. The farm manager will die quickly, quickly giving genetic material to work with. Make sure the traits you want are kept!%n%nThey are also a Fast production frog, which means lots of honey lilies for powering your Frogalyzer or Treealyzer. %n%nCultivated Frogs produce Nectar Lillies every 0.9 minutes. Note that production times are an approximation based on the frog's base production speed and the product's rarity. They do not reflect actual production time.%n%nMake sure your cultivated frogs are pure with a Frogalyzer or GT scanner.%n%nThe main frog breeding quests will require pure frogs but you can use Ignoble or Pristine farmers.
 
 # Quest: Breed some common frogs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.name=Breed some common frogs
@@ -9780,7 +9780,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXg.desc=Cross breeding common and culti
 
 # Quest: Dripping Lilies
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXw.name=Dripping Lilies
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXw.desc=Your noble frogs produce some dripping combs.%nA good source for honey, and if have a magical mind, honeydew for proven frames.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXw.desc=Your noble frogs produce some dripping lilies.%nA good source for honey, and if have a magical mind, honeydew for proven frames.
 
 # Quest: Breed some majestic frogs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYA.name=Breed some majestic frogs
@@ -9822,8 +9822,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbg.desc=Growing frogs are the start of 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.name=Copper
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.desc=The Copper frog is the first of the metal lines. There are too many metal breeding lines to cover here, but by now you should be able to use NEI to figure out how to breed more frog types. Copper frogs require a copper block beneath the frog housing. Breed them from Majestic and Clay.
 
-# Quest: Clay bee
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcw.name=Clay bee
+# Quest: Clay frog
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcw.name=Clay frog
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcw.desc=To breed a Clay frog you must put a Clay block beneath the housing. Clay frogs are the bedrock of many important frog lines. Breed them from Industrious and Diligent.
 
 # Quest: Industrious
@@ -9888,7 +9888,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgg.desc=Just like Sinister, Fiendish re
 
 # Quest: Secluded
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgw.name=Secluded
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgw.desc=Secluded frogs are real loners. There must not be any entities within their territory for them to produce their combs. The Mellow lilies can produce Nether quartz. Breed them from Monastic and Austere.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgw.desc=Secluded frogs are real loners. There must not be any entities within their territory for them to produce their lilies. The Mellow lilies can produce Nether quartz. Breed them from Monastic and Austere.
 
 # Quest: Austere
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhA.name=Austere
@@ -10272,7 +10272,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9A.desc=A frog to make ashes?  What ins
 
 # Quest: Space Frogs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpg.name=Space Frogs
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpg.desc=Breed an industrious with a heroic frog to obtain a space frog. You need the temperature to be icy for that.%n%nJust one small step for you, but a giant leap for beekind.%n%n§3This is the starting point for many space related frogs. Maybe check out NEI to see what you can aim for.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpg.desc=Breed an industrious with a heroic frog to obtain a space frog. You need the temperature to be icy for that.%n%nJust one small step for you, but a giant leap for frogkind.%n%n§3This is the starting point for many space related frogs. Maybe check out NEI to see what you can aim for.
 
 # Quest: DOB
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1g.name=DOB
@@ -10286,6 +10286,41 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4Q.desc=Critical for your Ichor product
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4g.name=Nethershard
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4g.desc=Critical for your Ichor production.%n%n§3You will need to breed through a bunch of elemental frogs that don't have quests to actually get to it.
 
+# Quest: Energium
+betterquesting.quest.B0XRo_S1RveAsKZSXms9vg.name=Energium
+betterquesting.quest.B0XRo_S1RveAsKZSXms9vg.desc=Are you tired of making Energium Dust by mixing Ruby and Redstone Dust? This frog offers a way to acquire it directly - how convenient is that? To breed it, you'll need to place some Hot Coolant below the hive while inside a Boneyard found in the Nether.%n%nUnlike its parents, this frog won't burn down your base—but it will set you on fire if you're not wearing your herpetologist suit!
+
+# Quest: Glowstone
+betterquesting.quest.NzynzD7HQrmEAf7BFd2A2w.name=Glowstone
+betterquesting.quest.NzynzD7HQrmEAf7BFd2A2w.desc=The Glowstone Farmer isn't as picky as her peers. There are no breeding requirements besides the species being Gold and Redstone. Hooray!
+
+# Quest: Sunnarium
+betterquesting.quest.VoQgq6UvTZmo3tpUIZs4Rg.name=Sunnarium
+betterquesting.quest.VoQgq6UvTZmo3tpUIZs4Rg.desc=Not only does this frog produce more Glowstone than its parent species, but it's also capable of producing Sunnarium. However, this requires some technical progress: to breed this frog, you will need to place a Superconducting Coil Block beneath it.
+
+# Quest: Pyrotheum
+betterquesting.quest.YVlqGPZBS8qCkkHlu1BDpg.name=Pyrotheum
+betterquesting.quest.YVlqGPZBS8qCkkHlu1BDpg.desc=Blazing Pyrotheum is needed in large quantities to satisfy the unquenchable thirst of your Volcani. This frog produces Pyrotheum Dust directly - all you need to do is fluid-extract it (after reaching this point in the breeding chain, of course).%n%nBreed these frogs from Energy and Redstone Frogs. They aren't picky about conditions, requiring only Hellish temperature. Yay!
+
+# Quest: Gold
+betterquesting.quest.jvKBzB6tRpCQGlnboQxSAA.name=Gold
+betterquesting.quest.jvKBzB6tRpCQGlnboQxSAA.desc=There are a plethora of ways to acquire gold, but here's one more for the dedicated herpetologist. This breeding chain will eventually allow you to reach Sunnarium. You'll need a Block of Gold and a biome with a hot temperature. Breed them from Copper and Lead.
+
+# Quest: Essentia
+betterquesting.quest.noSgUClGTO6zMgENR9pwtw.name=Essentia
+betterquesting.quest.noSgUClGTO6zMgENR9pwtw.desc=This frog produces nothing directly but instead sacrifices its lifetime to generate liquid essentia for all your magical needs. To do so, however, it requires an Herpimancer's Drainer beneath its housing.%n%nThe speed at which the frog produces essentia is affected by its production speed. You have to right-click the drainer with a filled phial of the desired essentia to lock it to that type.%n%nYou can breed them from chaotic and ordered Frogs.%n%n§3You can also place up to 9 drainers beneath a single Lily Plantation as long as the blocks at the bottom are plain Lily Plantation blocks.
+
+# Quest: Lapotron
+betterquesting.quest.rKrpOyRHRvSF7TeFSskG_A.name=Lapotron
+betterquesting.quest.rKrpOyRHRvSF7TeFSskG_A.desc=This magnificent breed of frog produces a whole plethora of useful resources, including endless amounts of Lapis, Energium, and Lapotron Dust. However, they are somewhat picky when it comes to breeding; you'll need Energium and Lapis Frogs as parents, and the process must take place on the Moon under icy temperatures.
+
+# Quest: Furious
+betterquesting.quest.v-1MbhJWRuiGFBX8KEvsUg.name=Furious
+betterquesting.quest.v-1MbhJWRuiGFBX8KEvsUg.desc=If you want to pursue the breeding path toward Lapotron and Pyrotheum Frogs, you’ll need to start by breeding some Furious Frogs. They can be bred in the nether using Fiendish and Embittered Frogs, with the latter found in the wilds of the Nether.%n%nBeware: Furious frogs spawn fire charges downward, so make sure your breeding area is fireproof!
+
+# Quest: Volcanic
+betterquesting.quest.ysj8avl1SESH2ibGOS3qjQ.name=Volcanic
+betterquesting.quest.ysj8avl1SESH2ibGOS3qjQ.desc=One step closer to your goal, these frogs can be bred from Furious and Demonic frogs while inside the Nether. Just like their Furious counterparts, they will spawn fire charges while working.
 
 ## Quest Line: Hardcore End(er) Expansion
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAKw.name=Hardcore End(er) Expansion
@@ -11482,7 +11517,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxQ.desc=The soarleander generates mana 
 
 # Quest: According to all known laws of mana generation...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.name=According to all known laws of mana generation...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.desc=...there is no way a frog should be able to produce mana. The beegonia doesn't know this, and will gladly eat up all of your spare workers to help with filling your mana pools.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.desc=...there is no way a frog should be able to produce mana. The frogonia doesn't know this, and will gladly eat up all of your spare workers to help with filling your mana pools.
 
 
 ## Quest Line: Look to the Edges
