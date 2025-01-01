@@ -1,6 +1,70 @@
 GT5U.machines.industrialapiary.info.tooltip.3=§7§oInsert analyzed frog to see more info
 GT5U.machines.industrialapiary.infoextended.tooltip.3=Frog genome speed: %4$.1f
+GT5U.machines.industrialapiary.cancel.tooltip.2=§7§oCan't stop farmer breeding
 GT5U.machines.industrialapiary.autoqueen.tooltip=Automatically put the farm manager after breeding in the input slot
 
+gt.blockmachines.basicmachine.industrialapiary.name=Industrial Lily Farm
 
-gt.comb.76.name=Lily
+item.gt.comb.name=Lily
+
+gt.blockmachines.multimachine.extremeapiary.name=Industrial Herpecultural Acclimatiser and Worker Productivity Station
+
+TileEntity_DESCRIPTION_09399_Index_00=FROGS GOES BRRRR
+TileEntity_DESCRIPTION_09399_Index_06=t is 8 for the industrial lily farm, and
+TileEntity_DESCRIPTION_09399_Index_07=s is the speed value for the frog
+TileEntity_DESCRIPTION_09399_Index_08=Outputs are generated at the end of every frog tick (...)
+
+TileEntity_DESCRIPTION_14202_Index_00=Machine Type: §eMega Industrial Lily Farm§r
+TileEntity_DESCRIPTION_14202_Index_01=The ideal home for your frogs
+TileEntity_DESCRIPTION_14202_Index_02=Use screwdriver to change primary mode (INPUT/OUTPUT/OPERATING)
+TileEntity_DESCRIPTION_14202_Index_03=Use screwdriver + shift to change operation mode (NORMAL/SWARMER)
+TileEntity_DESCRIPTION_14202_Index_04=§7§m-----------------------------------------
+TileEntity_DESCRIPTION_14202_Index_05=§6Input Mode:
+TileEntity_DESCRIPTION_14202_Index_06=- Does not take power
+TileEntity_DESCRIPTION_14202_Index_07=- Put your Farm Managers in the input bus to put them in the internal buffer
+TileEntity_DESCRIPTION_14202_Index_08=§7§m-----------------------------------------
+TileEntity_DESCRIPTION_14202_Index_09=§6Output Mode:
+TileEntity_DESCRIPTION_14202_Index_10=- Does not take power
+TileEntity_DESCRIPTION_14202_Index_11=- Will give your frogs back to output bus
+TileEntity_DESCRIPTION_14202_Index_12=§7§m-----------------------------------------
+TileEntity_DESCRIPTION_14202_Index_13=§6Operating Mode:
+TileEntity_DESCRIPTION_14202_Index_14=- NORMAL:
+TileEntity_DESCRIPTION_14202_Index_15=  - For each §dLuV§7 amp you can insert 1 frog
+TileEntity_DESCRIPTION_14202_Index_16=  - Processing time: 5 seconds
+TileEntity_DESCRIPTION_14202_Index_17=  - Uses 1 §dLuV§7 amp per Farm Manager
+TileEntity_DESCRIPTION_14202_Index_18=  - All frogs are accelerated 64 times
+TileEntity_DESCRIPTION_14202_Index_19=  - 8 production upgrades are applied
+TileEntity_DESCRIPTION_14202_Index_20=  - Genetic Stabilizer upgrade applied
+TileEntity_DESCRIPTION_14202_Index_21=  - Simulates perfect environment for your frogs
+TileEntity_DESCRIPTION_14202_Index_22=  - Additionally you can provide royal jelly to increase the outputs:
+TileEntity_DESCRIPTION_14202_Index_23=    - 1 royal jelly grants 5% bonus per frog
+TileEntity_DESCRIPTION_14202_Index_24=    - They will be consumed on each start of operation
+TileEntity_DESCRIPTION_14202_Index_25=    - and be applied to that operation only
+TileEntity_DESCRIPTION_14202_Index_26=    - Max bonus: 200%
+TileEntity_DESCRIPTION_14202_Index_27=- SWARMER:
+TileEntity_DESCRIPTION_14202_Index_28=  - You can only insert 1 farm manager
+TileEntity_DESCRIPTION_14202_Index_29=  - It will slowly produce ignoble farmers
+TileEntity_DESCRIPTION_14202_Index_30=  - Consumes 100 royal jelly per operation
+TileEntity_DESCRIPTION_14202_Index_31=  - Base processing time: 1 minute
+TileEntity_DESCRIPTION_14202_Index_32=  - Uses 1 amp §aIV§7
+TileEntity_DESCRIPTION_14202_Index_33=  - Can overclock
+TileEntity_DESCRIPTION_14202_Index_34=§7§m-----------------------------------------
+TileEntity_DESCRIPTION_14202_Index_35=Hold §l[LSHIFT]§r§7 to display structure guidelines
+TileEntity_DESCRIPTION_14202_Index_36=Added by: §4§lk§c§lu§6§lb§e§la§2§l6§a§l0§b§l0§3§l0§r§7 & §aRunakai
+TileEntity_DESCRIPTION_14202_Secondary_Index_00=§fDimensions: §615§7x§617§7x§615§7 (§6W§7x§6H§7x§6L§7) §c
+TileEntity_DESCRIPTION_14202_Secondary_Index_01=§fStructure: 
+TileEntity_DESCRIPTION_14202_Secondary_Index_02=   §fController: §7Front Bottom Center
+TileEntity_DESCRIPTION_14202_Secondary_Index_03=§6   190x §r§7Bronze Plated Bricks (minimum)
+TileEntity_DESCRIPTION_14202_Secondary_Index_04=§f   Borosilicate Glass: §7Look at the hologram
+TileEntity_DESCRIPTION_14202_Secondary_Index_05=   The glass tier limits the Energy Input tier
+TileEntity_DESCRIPTION_14202_Secondary_Index_06=   Regular water and IC2 Distilled Water are accepted
+TileEntity_DESCRIPTION_14202_Secondary_Index_07=§f   Flowers: §7On dirt/grass
+TileEntity_DESCRIPTION_14202_Secondary_Index_08=§f   Input Bus: §7Any casing
+TileEntity_DESCRIPTION_14202_Secondary_Index_09=§f   Output Bus: §7Any casing
+TileEntity_DESCRIPTION_14202_Secondary_Index_10=§f   Energy Hatch: §7Any casing
+TileEntity_DESCRIPTION_14202_Secondary_Index_11=§f   Maintenance Hatch: §7Any casing
+TileEntity_DESCRIPTION_14202_Secondary_Index_12=   §7§m------------------------------
+TileEntity_DESCRIPTION_14202_Secondary_Index_13=§fStructure is too complex!
+TileEntity_DESCRIPTION_14202_Secondary_Index_14=§fTo see the structure, use a§9 Structure§1Lib §r§fHologram Projector on the Controller!
+
+

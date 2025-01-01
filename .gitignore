@@ -6,7 +6,7 @@
 !.gitignore
 !/resourcepacks/Frogs/*
 !/resourcepacks/Frogs/*.png
-
+!GregTech_Frog.lang
 
 !/config/txloader/forceload/____gtnhoverridenames/lang/en_US.lang
 !/config/GTNewHorizons/CustomToolTips.xml
