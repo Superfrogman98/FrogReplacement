@@ -1,0 +1,11 @@
+{
+  "machines.MTEMegaIndustrialApiary": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "MTEMegaIndustrialApiary",
+        "stream": false
+      }
+    ]
+  }
+}

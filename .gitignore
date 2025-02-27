@@ -1,11 +1,15 @@
 *
+config/*
 
 !*/
 
 
 !.gitignore
 !/resourcepacks/Frogs/*
+!/resourcepacks/Frogs/
 !/resourcepacks/Frogs/*.png
+!/resourcepacks/Frogs/assets/*.ogg
+!/resourcepacks/Frogs/*.json
 !GregTech_Frog.lang
 
 !/config/txloader/forceload/____gtnhoverridenames/lang/en_US.lang
